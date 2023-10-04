@@ -1,8 +1,4 @@
-# Réalisez une étude de santé publique avec Python
-
-Scénario
-
-## Faire un panorama de l’état de la malnutrition dans le monde, à partir des données téléchargés sur le site de la FAO 
+## Panorama de l’état de la malnutrition dans le monde, à partir des données téléchargés sur le site de la FAO 
 Food and Agriculture Organization of the United Nations Food and Agriculture Organization of the United Nations, un des organes qui composent l’ONU et dont l’objectif est « d’aider à construire un monde libéré de la faim ». 
 
 ![image](https://github.com/YatYFerr/R-alisez-une-tude-de-sant-publique/assets/146732224/a8c1fbc3-6d42-448b-b843-65c5f24e5ea6)
